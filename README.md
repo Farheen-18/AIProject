@@ -98,6 +98,14 @@ pandas>=2.2.0
 matplotlib>=3.8.0
 scikit-learn>=1.4.0
 torch>=2.0.0
+torchvision>=0.15.0
+tqdm>=4.66.0
+seaborn>=0.13.0
+joblib>=1.3.0
+nltk>=3.8.0
+regex>=2023.0.0
+imbalanced-learn>=0.12.0
+
 ```
 
 ---
